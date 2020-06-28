@@ -1,0 +1,73 @@
+<div id="page-wrapper">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header">Upload Result</h1>
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+            <!-- /.row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Upload Student's Result
+                        </div>
+                        <div class="panel-body">
+                            <div class="row">
+                            <!-- /.col-lg-2 (nested) -->
+                                <div class="col-lg-2">
+                                    
+                                </div>
+                                <!-- /.col-lg-2 (nested) -->
+                                <div class="col-lg-7">
+                                    <?= form_open("admin/result/addresult") ?>
+                                        <!-- <div class="form-group">
+                                            <label>Course Name</label>
+                                            <?= form_input(['name'=>'name','class' => 'form-control', 'placeholder' => 'Course name', 'value' => set_value('name')]) ?>
+                                            <span style="color: red;"><?= form_error('name') ?></span>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Description</label>
+                                            <?= form_textarea(['name'=>'description','class' => 'form-control','rows'=> '5','cols'=> '10','value' => set_value('description')]) ?>
+                                            <span style="color: red;"><?= form_error('description') ?></span>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Course Content</label>
+                                            <?= form_input(['name'=>'module','class' => 'form-control', 'placeholder' => 'Course content', 'value' => set_value('module')]) ?>
+                                            <span style="color: red;"><?= form_error('module') ?></span>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <label>Duration</label>
+                                            <?= form_input(['name'=>'duration','class' => 'form-control', 'placeholder' => 'Duration', 'value' => set_value('duration')]) ?>
+                                            <span style="color: red;"><?= form_error('duration') ?></span>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Course Fees</label>
+                                            <?= form_input(['name'=>'fee','class' => 'form-control', 'placeholder' => 'Course fee', 'value' => set_value('fee')]) ?>
+                                            <span style="color: red;"><?= form_error('fee') ?></span>
+                                        </div> -->
+                                        <div class="form-group">
+                                            <label>Excel File</label>
+                                            <input type="file" name="file" class="form-control">
+                                            <span ><a href="#" style="color: red;">Click here to view data format of Excel File.</a></span>
+                                        </div>
+                                        
+                                        <button type="submit" class="btn btn-default">Submit Button</button>
+                                        <!-- <button type="reset" class="btn btn-default">Reset Button</button> -->
+                                    <?= form_close() ?>
+                                </div>
+                                <!-- /.col-lg-4 (nested) -->
+                                <div class="col-lg-4">
+                                    
+                                </div>
+                                <!-- /.col-lg-4 (nested) -->
+                            </div>
+                            <!-- /.row (nested) -->
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>

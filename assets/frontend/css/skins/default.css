@@ -1,0 +1,431 @@
+a:hover {
+    text-decoration: none;
+}
+
+.navbar-search-input::-webkit-input-placeholder {
+    color: #EC8933;
+}
+
+.navbar-search-input:-moz-placeholder {
+    color: #EC8933;
+}
+
+.navbar-search-input::-moz-placeholder {
+    color: #EC8933;
+}
+
+.navbar-search-input:-ms-input-placeholder {
+    color: #EC8933;
+}
+
+.navbar-search-open .navbar-search-icon {
+    background: #EC8933;
+}
+
+.navbar-search-open .navbar-search-submit {
+    background: #EC8933;
+}
+
+#page_scroller {
+    background: #EC8933;
+}
+
+.setting-button {
+    background: #EC8933;
+}
+
+.option-panel h2 {
+    color: #EC8933;
+}
+
+.list-inline-listing .active {
+    background: #EC8933;
+}
+
+.list-inline-listing li:hover {
+    background: #EC8933;
+}
+
+.main-title h1 span {
+    color: #EC8933;
+}
+
+.button-theme {
+    background: #EC8933;
+    border: 2px solid #EC8933;
+}
+
+.button-theme:hover {
+    background: #ca7328;
+    border: 2px solid #ca7328;
+}
+
+.error404-content h1 {
+    color: #EC8933;
+}
+
+.footer-top form .button-small {
+    border: solid 1px #EC8933 !important;
+    background: #EC8933 !important;
+}
+
+.course-features ul li i {
+    color: #EC8933;
+}
+
+.course-features ul li i {
+    color: #EC8933;
+}
+
+.banner-detail-box h3 {
+    color: #EC8933;
+}
+
+.border-button-theme {
+    border: 2px solid #EC8933;
+    color: #EC8933;
+}
+
+.border-button-theme:hover {
+    background: #EC8933;
+    color: #fff !important;
+}
+
+.theme-tabs .nav-tabs > li > a {
+    background: #EC8933;
+}
+
+.theme-tabs .nav-tabs > li.active > a,
+.theme-tabs .nav-tabs > li > a:hover {
+    color: #EC8933;
+!important;
+}
+
+.theme-tabs .nav-tabs > li > a::after {
+    background: #EC8933;
+}
+
+.theme-tabs .tab-nav > li > a::after {
+    background: #EC8933 none repeat scroll 0% 0%;
+}
+
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
+    border-color: #EC8933;
+    border-bottom: transparent;
+}
+
+.search-button {
+    background: #EC8933;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+    background: #EC8933;
+    color: #fff !important;
+}
+
+.main-header .navbar-default .nav > li > a:hover {
+    background: #EC8933;
+    color: #fff !important;
+}
+
+.main-title-2 h1 a {
+    color: #EC8933;
+}
+
+.intro-section {
+    background: #EC8933;
+}
+
+.search-button:hover {
+    color: #fff;
+    background: #84ad1d;
+}
+
+.panel-box .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+    background: #EC8933;
+    color: #fff;
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.15);
+    border-radius: 0;
+}
+
+.panel-box ul li a:hover {
+    background: #EC8933;
+    color: #fff;
+    border-radius: 0;
+}
+
+.course-panel-box .nav-tabs > li > a:hover {
+    color: #fff;
+    background: #EC8933;
+}
+
+.heading-courses p i {
+    color: #EC8933;
+    margin-right: 5px;
+}
+
+.panel-box span a {
+    color: #EC8933;
+}
+
+.panel-box .panel-heading .panel-title a i {
+    color: #EC8933;
+}
+
+.heading-courses h3 {
+    color: #EC8933;
+}
+
+.bootstrap-select.btn-group.show-tick .dropdown-menu li.selected a span.check-mark {
+    color: #EC8933;
+}
+
+.for-sale {
+    background: #EC8933;
+}
+
+.requirements ul li i {
+    color: #EC8933;
+}
+
+.advantages ul li span {
+    color: #EC8933;
+}
+
+.footer-top .social-list li a:hover {
+    background: #EC8933;
+    border: solid 1px #EC8933;
+}
+
+.category-content .btn, .category-content .pricing-btn {
+    background: #EC8933;
+}
+
+.teachers-box .title a {
+    color: #EC8933;
+}
+
+.testimonials .content .author-name {
+    color: #EC8933;
+}
+
+.date-box {
+    background: #EC8933;
+}
+
+.dropdown-menu > li > a:hover {
+    color: #EC8933;
+    border-left: solid 5px #EC8933;
+}
+
+.plan.featured .price-header {
+    background: #EC8933;
+}
+
+.listing-properties-box .detail header.title a {
+    color: #EC8933;
+}
+
+.listing-properties-box .detail .title::after {
+    background-color: #EC8933;
+}
+
+.pagination > li > a:hover {
+    background: #EC8933;
+    border-color: #EC8933;
+}
+
+.pagination > .active > a {
+    background: #EC8933;
+    border-color: #EC8933;
+}
+
+.pagination > .active > a:hover {
+    background: #EC8933;
+    border-color: #EC8933;
+}
+
+.blog-box .detail .post-meta span a i {
+    color: #EC8933;
+}
+
+.teachers-box-list .teachers-content h1 a {
+    color: #EC8933;
+}
+
+.form-content-box .footer span a {
+    color: #EC8933;
+}
+
+.icon-color {
+    color: #EC8933;
+}
+
+.courses-syllabus .courses-item .header {
+    background: #EC8933;
+}
+
+.teachers-box-big .teachers-content h1 a:hover {
+    color: #EC8933;
+}
+
+.tab-style-2-line > .nav-tabs > li.active > a:hover {
+    border: solid 1px #EC8933 !important;
+    background: #EC8933 !important;;
+}
+
+.archives ul li a:hover {
+    color: #EC8933;
+}
+
+.category-posts ul li a:hover {
+    color: #EC8933;
+}
+
+.tags-box ul li a:hover {
+    border: 1px solid #EC8933;
+    background: #EC8933;
+}
+
+.latest-tweet a {
+    color: #EC8933;
+}
+
+.recent-posts .media-heading a {
+    color: #EC8933;
+}
+
+.comment-meta-author a {
+    color: #EC8933;
+}
+
+.comment-meta-reply a {
+    background-color: #EC8933;
+}
+
+.contact-details .media .media-left i {
+    background: #EC8933;
+}
+
+.about-text ul li i {
+    color: #EC8933;
+}
+
+.breadcrumbs li a:hover {
+    color: #EC8933;
+}
+
+.top-header ul li a:hover {
+    color: #EC8933;
+}
+
+.services-box-2 i {
+    background: #EC8933;
+}
+
+.helping-center .icon {
+    color: #EC8933;
+}
+
+.services-box i {
+    background: #EC8933;
+}
+
+.customers-say-box .detail ul li i {
+    color: #EC8933;
+}
+
+.attachments a:hover {
+    color: #EC8933;
+}
+
+.course-box .price {
+    background: #EC8933;
+}
+
+.courses-box-list .price {
+    background: #EC8933;
+}
+
+.course-box .detail h3 a {
+    color: #EC8933;
+}
+
+.courses-box-list .detail h3 a {
+    color: #EC8933;
+}
+
+.events-box .date-box {
+    color: #EC8933;
+}
+
+.events-box-grid .date-box {
+    color: #EC8933;
+}
+
+.events-box-grid .events-content h1 a {
+    color: #EC8933;
+}
+
+.events-box .events-content ul li i {
+    color: #EC8933;
+}
+
+.events-box-grid .events-content ul li i {
+    color: #EC8933;
+}
+
+.additional-details-list li a:hover {
+    color: #EC8933;
+}
+
+.events-box .events-content h1 a {
+    color: #EC8933;
+}
+
+table.manage-table td.action a:hover {
+    color: #EC8933;
+}
+
+.numbered.color.filled ol > li::before {
+    border: 1px solid #EC8933;
+    background-color: #EC8933;
+}
+
+.numbered.color ol > li::before {
+    border: 1px solid #EC8933;
+    color: #EC8933;
+}
+
+.map-edu-list li i {
+    color: #EC8933;
+}
+
+@media (max-width: 768px) {
+
+    .navbar-default .navbar-toggle .icon-bar {
+        background: #EC8933;
+    }
+
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+        background-color: #EC8933;
+        color: #fff ! important;
+    }
+
+    .main-header .navbar-default .nav > li > a:hover {
+        background: #EC8933;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+        background-color: #EC8933;
+    !important;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        background: #eee;
+    }
+}
+
+
