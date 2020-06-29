@@ -147,7 +147,7 @@
 <!-- Copy right start -->
 <div class="copy-right">
     <div class="container">
-        &copy;  2018 <a >ACIT</a>. Adheesh Computer Institute of Technology.
+        &copy;  <?php echo date('Y') ?> <a >ACIT</a>. Adheesh Computer Institute of Technology.
     </div>
 </div>
 <!-- Copy end right-->
